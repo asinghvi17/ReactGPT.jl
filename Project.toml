@@ -1,7 +1,13 @@
 name = "ReactGPT"
 uuid = "b7645254-bc52-4e8b-80e8-96bff487669a"
 authors = ["Anshul Singhvi <anshulsinghvi@gmail.com> and contributors"]
-version = "1.0.0-DEV"
+version = "0.0.1-DEV"
+
+[deps]
+DocStringExtensions = "ffbed154-4ef7-542d-bbb7-c09d3a79fcae"
+HTTP = "cd3eb016-35fb-5094-929b-558a96fad6f3"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
+OpenAI = "e9f21f70-7185-4079-aca2-91159181367c"
 
 [compat]
 julia = "1"
